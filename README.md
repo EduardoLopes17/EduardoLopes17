@@ -25,7 +25,7 @@ Eduardo Henrique Lopes | 17 anos | Natural de Joinville/SC. <br> Desenvolvedor d
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="[https://github-readme-stats.vercel.app/api?username=EduardoLopes17&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br](https://github-readme-stats.vercel.app/api?username=EduardoLopes17&show_icons=true&theme=dark&locale=pt-br)" 
+    src="https://github-readme-stats.vercel.app/api?username=EduardoLopes17&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&cache_seconds=1800" 
   />
 
 <img 
