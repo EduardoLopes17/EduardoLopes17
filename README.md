@@ -4,7 +4,7 @@
 
 **Estudante de Desenvolvimento de Sistemas**
 
-Eduardo Henrique Lopes | 17 anos | Natural de Joinville/SC. <br> Desenvolvedor de Sistemas em formação no SESI de Referência, atualmente no 3º ano do Ensino Médio. Apaixonado por transformar ideias em código, foco meus estudos em HTML5, CSS3 e JavaScript, utilizando Git e GitHub para versionamento e colaboração em projetos.
+Eduardo Henrique Lopes | 17 anos | Natural de Joinville/SC. <br> Desenvolvedor de Sistemas em formação no SESI de Referência, atualmente no 3º ano do Ensino Médio. Apaixonado por transformar ideias em código, foco meus estudos em HTML, CSS e JavaScript, utilizando Git e GitHub para versionamento e colaboração em projetos.
 
 ---
 
@@ -20,7 +20,7 @@ Eduardo Henrique Lopes | 17 anos | Natural de Joinville/SC. <br> Desenvolvedor d
 
 ### 📊 Estatísticas
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_NOVO_USUARIO&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_NOVO_USUARIO&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=EduardoLopes17&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoLopes17&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" />
 
 </div>
