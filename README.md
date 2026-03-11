@@ -37,4 +37,4 @@ Eduardo Henrique Lopes | 17 anos | Natural de Joinville/SC. <br> Desenvolvedor d
   />
 
 </p>
-</div>
+
