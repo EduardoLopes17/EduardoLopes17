@@ -3,7 +3,7 @@
 
 **Estudante de Desenvolvimento de Sistemas**
 
-Eduardo Henrique Lopes | 17 anos | Natural de Joinville/SC. <br> Desenvolvedor de Sistemas em formação no SESI de Referência, atualmente no 3º ano do Ensino Médio. Apaixonado por transformar ideias em código, foco meus estudos em HTML, CSS e JavaScript, utilizando Git e GitHub para versionamento e colaboração em projetos.
+Eduardo Henrique Lopes | 17 anos | Natural de Joinville/SC. <br> Desenvolvedor de Sistemas em formação no SESI de Referência, atualmente no 3º ano do Ensino Médio, foco meus estudos em HTML, CSS e JavaScript, utilizando Git e GitHub para versionamento e colaboração em projetos.
 
 ---
 
